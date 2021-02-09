@@ -2,9 +2,9 @@
 
 ## I'm a Full-Stack devoper!!
 
-- 🔭 I have a good grasp of JavaScript and its frameworks
-- 🌱 I’m developing and improving my skill set🤣
-- 👯 I’m looking to collaborate with other developers to create world changing webapps
+- 🔭 I have a good grasp of JavaScript and its frameworks (React, React-Redux, Nodejs, Expessjs, Nextjs, typescript)
+- 🌱 I’m dedicated, easy going and working very hard on improving my skillset
+- 👯 I’m looking to collaborate with other developers to create world changing webapps and mobile apps
 - 🥅 2021 Goals: impact lives positively with coding.
 - ⚡ Fun fact: i love listening to music and making new friends
 
